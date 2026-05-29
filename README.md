@@ -18,7 +18,7 @@ Proyek ini terdiri dari direktori dan file utama berikut:
 - 🐍 **`tubes_dm_kelompok_1_missing_value.py`** — *Script* Python fungsional yang berisi alur otomatis untuk pra-pemrosesan data dan penanganan *missing value*.
 - 📄 **`PPT_Tubes_DM_Kelompok_1_Missing_Value (1).pdf`** — *Slide* presentasi yang merangkum metodologi, pendekatan, dan hasil temuan dari proyek ini.
 - 📑 **`Logbook_Kelompok1_Penambang Data.pdf`** — Catatan *logbook* yang mendokumentasikan proses pengerjaan, pembagian tugas, dan progres mingguan tim.
-
+- 📑 **`Laporan_DM_Kelompok 1_Missing Value.pdf`** — Laporan Hasil riset Kelompok 1 Topik Missing Value dengan dataset Cuaca Australia.
 ---
 
 ## 📊 Tentang Dataset
